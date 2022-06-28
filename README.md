@@ -1,5 +1,5 @@
 # imaskjs
-vanilla javascript input mask
+vanilla javascript input mask WOW
 
 [![Build Status](https://travis-ci.com/uNmAnNeR/imaskjs.svg?branch=master)](https://travis-ci.com/uNmAnNeR/imaskjs)
 [![Financial Contributors on Open Collective](https://opencollective.com/imask/all/badge.svg?label=financial+contributors)](https://opencollective.com/imask) [![Coverage Status](https://coveralls.io/repos/github/uNmAnNeR/imaskjs/badge.svg?branch=master)](https://coveralls.io/github/uNmAnNeR/imaskjs?branch=master)
